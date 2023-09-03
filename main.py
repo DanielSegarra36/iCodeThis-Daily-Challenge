@@ -59,7 +59,7 @@ try:
             # Format the timestamp as a string
             timestamp = current_datetime.strftime("%Y-%m-%d")
 
-            mdFile.write(f'[{timestamp}: {extracted_string}]({full_url})\n')
+            mdFile.write(f'[{timestamp}: {extracted_string}]({full_url})  \n')
           else:
             print("No match found")
           # Append the URL to the file
