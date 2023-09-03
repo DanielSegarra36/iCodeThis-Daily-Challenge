@@ -1,6 +1,8 @@
 # iCodeThis-Daily-Challenge
 
 script to get daily challenge
+[https://www.notion.so/learnersview/Saving-Daily-Coding-Challenges-ed7009e331074c00a07e422b97ebcf21](Notion Notes)
+
 
 ## iCodeThis
 
