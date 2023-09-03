@@ -31,7 +31,7 @@ try:
         print('Found <img> tag without "base64" in src attribute')
         image_url = img_tag.get('src')
         print(f'Image URL: icodethis.com{image_url}')
-        full_url = f'icodethis.com{image_url}'
+        full_url = f'https://www.icodethis.com{image_url}'
         print(f'Image URL: {full_url}')
 
         # Open the file in append mode
