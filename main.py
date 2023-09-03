@@ -41,7 +41,7 @@ try:
         image_content = res.content
 
         # Regular expression pattern to find 'Daily Challenge Name'
-        pattern = r'image\?url=%2Fimages%2Fprojects%2F(.*?)\.jpg'
+        pattern = r'image\?url=%2Fimages%2Fprojects%2F(.*?)\.(jpg|png|webp)'
 
         # Use re.search to find the match in the input string
         match = re.search(pattern, image_url)

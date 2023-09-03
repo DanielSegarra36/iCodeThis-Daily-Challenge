@@ -2,3 +2,4 @@ https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Frent_a_car.png&
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fselect_interest.png&w=3840&q=75
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fsocial_ui_kit.png&w=3840&q=75
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Ftask_details.jpg&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fnotifications_3.png&w=3840&q=75
