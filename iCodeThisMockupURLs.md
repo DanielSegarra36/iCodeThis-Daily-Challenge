@@ -4,3 +4,5 @@
 [2023-09-02: Task Details](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Ftask_details.jpg&w=3840&q=75)  
 [2023-09-03: Notifications 3](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fnotifications_3.png&w=3840&q=75)  
 [2023-09-04: Reviews 3](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Freviews_3.png&w=3840&q=75)  
+[2023-09-05: Testimonials 3](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Ftestimonials_3.png&w=3840&q=75)  
+[2023-09-06: Car Interface](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fcar_interface.jpg&w=3840&q=75)  
