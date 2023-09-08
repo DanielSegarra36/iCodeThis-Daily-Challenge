@@ -6,3 +6,5 @@ https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fnotifications_3
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Freviews_3.png&w=3840&q=75
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Ftestimonials_3.png&w=3840&q=75  
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fcar_interface.jpg&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fcourse_card.jpg&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Ffile_upload.jpg&w=3840&q=75
