@@ -10,3 +10,5 @@ https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fcourse_card.jpg
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Ffile_upload.jpg&w=3840&q=75
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Ffood_menu.jpg&w=3840&q=75
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Ffullpage_slider.jpg&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fhalloween_countdown.jpg&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fimage_zoom.jpg&w=3840&q=75https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fleaderboard_3.jpg&w=3840&q=75

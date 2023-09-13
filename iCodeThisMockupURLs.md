@@ -10,3 +10,6 @@
 [2023-09-08: File Upload](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Ffile_upload.jpg&w=3840&q=75)  
 [2023-09-09: Food Menu](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Ffood_menu.jpg&w=3840&q=75)  
 [2023-09-10: Fullpage Slider](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Ffullpage_slider.jpg&w=3840&q=75)  
+[2023-09-11: Halloween Countdown](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fhalloween_countdown.jpg&w=3840&q=75)  
+[2023-09-12: Image Zoom](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fimage_zoom.jpg&w=3840&q=75)  
+[2023-09-13: Leaderboard 3](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fleaderboard_3.jpg&w=3840&q=75)  
