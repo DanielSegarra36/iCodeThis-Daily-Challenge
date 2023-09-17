@@ -13,3 +13,6 @@
 [2023-09-11: Halloween Countdown](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fhalloween_countdown.jpg&w=3840&q=75)  
 [2023-09-12: Image Zoom](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fimage_zoom.jpg&w=3840&q=75)  
 [2023-09-13: Leaderboard 3](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fleaderboard_3.jpg&w=3840&q=75)  
+[2023-09-14: Mobile Pad](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fmobile_pad.jpg&w=3840&q=75)  
+[2023-09-15: Music Player 2](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fmusic_player_2.jpg&w=3840&q=75)  
+[2023-09-17: Pagination 3](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fpagination_3.jpg&w=3840&q=75)  
