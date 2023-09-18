@@ -15,3 +15,5 @@ https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fimage_zoom.jpg&
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fmobile_pad.jpg&w=3840&q=75
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fmusic_player_2.jpg&w=3840&q=75
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fpagination_3.jpg&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fpagination_4.jpg&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fphotograph_profile.jpg&w=3840&q=75

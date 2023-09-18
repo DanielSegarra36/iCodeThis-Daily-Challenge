@@ -15,4 +15,6 @@
 [2023-09-13: Leaderboard 3](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fleaderboard_3.jpg&w=3840&q=75)  
 [2023-09-14: Mobile Pad](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fmobile_pad.jpg&w=3840&q=75)  
 [2023-09-15: Music Player 2](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fmusic_player_2.jpg&w=3840&q=75)  
-[2023-09-17: Pagination 3](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fpagination_3.jpg&w=3840&q=75)  
+[2023-09-16: Pagination 3](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fpagination_3.jpg&w=3840&q=75)  
+[2023-09-17: Pagination 4](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fpagination_4.jpg&w=3840&q=75)  
+[2023-09-18: Photograph Profile](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fphotograph_profile.jpg&w=3840&q=75)  
