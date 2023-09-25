@@ -18,3 +18,4 @@
 [2023-09-16: Pagination 3](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fpagination_3.jpg&w=3840&q=75)  
 [2023-09-17: Pagination 4](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fpagination_4.jpg&w=3840&q=75)  
 [2023-09-18: Photograph Profile](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fphotograph_profile.jpg&w=3840&q=75)  
+[2023-09-25: Weather](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fweather.jpg&w=3840&q=75)  
