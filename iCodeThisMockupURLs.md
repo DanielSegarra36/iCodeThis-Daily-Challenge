@@ -20,3 +20,4 @@
 [2023-09-18: Photograph Profile](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fphotograph_profile.jpg&w=3840&q=75)  
 [2023-09-25: Weather](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fweather.jpg&w=3840&q=75)  
 [2023-10-06: Retro Messages](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fretro_messages.png&w=3840&q=75)  
+[2023-10-11: Landing Page 2](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Flanding_page_2.png&w=3840&q=75)  
