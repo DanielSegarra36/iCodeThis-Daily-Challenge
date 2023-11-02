@@ -21,3 +21,5 @@
 [2023-09-25: Weather](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fweather.jpg&w=3840&q=75)  
 [2023-10-06: Retro Messages](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fretro_messages.png&w=3840&q=75)  
 [2023-10-11: Landing Page 2](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Flanding_page_2.png&w=3840&q=75)  
+[2023-11-01: Onboarding 2](https://icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fonboarding_2.png&w=3840&q=75)  
+[2023-11-02: Post Card 2](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fpost_card_2.png&w=3840&q=75)  
