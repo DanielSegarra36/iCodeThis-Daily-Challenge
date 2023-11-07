@@ -24,3 +24,4 @@ https://icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fonboarding_2.png&w=
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fpost_card_2.png&w=3840&q=75
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fpricing_crop.jpg&w=3840&q=75
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fsmart_bulb.png&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fcustom_form_elements.png&w=3840&q=75
