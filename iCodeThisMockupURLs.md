@@ -26,3 +26,4 @@
 [2023-11-03: Pricing Crop](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fpricing_crop.jpg&w=3840&q=75)  
 [2023-11-06: Smart Bulb](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fsmart_bulb.png&w=3840&q=75)  
 [2023-11-07: Custom Form Elements](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fcustom_form_elements.png&w=3840&q=75)  
+[2023-11-08: E-Ticket](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fe-ticket.jpg&w=3840&q=75)  
