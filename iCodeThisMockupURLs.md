@@ -27,3 +27,7 @@
 [2023-11-06: Smart Bulb](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fsmart_bulb.png&w=3840&q=75)  
 [2023-11-07: Custom Form Elements](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fcustom_form_elements.png&w=3840&q=75)  
 [2023-11-08: E-Ticket](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fe-ticket.jpg&w=3840&q=75)  
+[2023-11-11: Quiz App](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fquiz_app.jpg&w=3840&q=75)  
+[2023-11-15: Achievements](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fachievements.png&w=3840&q=75)  
+[2023-11-16: Book List](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fbook_list.jpg&w=3840&q=75)  
+[2023-11-19: Double Popups](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fdouble_popups.png&w=3840&q=75)  
