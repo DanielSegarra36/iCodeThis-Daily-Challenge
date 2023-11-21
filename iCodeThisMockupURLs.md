@@ -31,3 +31,4 @@
 [2023-11-15: Achievements](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fachievements.png&w=3840&q=75)  
 [2023-11-16: Book List](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fbook_list.jpg&w=3840&q=75)  
 [2023-11-19: Double Popups](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fdouble_popups.png&w=3840&q=75)  
+[2023-11-21: Simple User Cards](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fsimple_user_cards.png&w=3840&q=75)  
