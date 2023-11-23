@@ -31,3 +31,4 @@ https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fachievements.pn
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fbook_list.jpg&w=3840&q=75
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fdouble_popups.png&w=3840&q=75
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fsimple_user_cards.png&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Ftraffic_chart.png&w=3840&q=75
