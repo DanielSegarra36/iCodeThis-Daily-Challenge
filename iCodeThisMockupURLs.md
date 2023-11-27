@@ -34,3 +34,5 @@
 [2023-11-21: Simple User Cards](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fsimple_user_cards.png&w=3840&q=75)  
 [2023-11-23: Traffic Chart](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Ftraffic_chart.png&w=3840&q=75)  
 [2023-11-25: Delivery Landing](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fdelivery_landing.png&w=3840&q=75)  
+[2023-11-26: Drag And Drop](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fdrag_and_drop.png&w=3840&q=75)  
+[2023-11-27: Freelancer Card](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Ffreelancer_card.png&w=3840&q=75)  

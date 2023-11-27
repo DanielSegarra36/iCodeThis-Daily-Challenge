@@ -33,3 +33,5 @@ https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fdouble_popups.p
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fsimple_user_cards.png&w=3840&q=75
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Ftraffic_chart.png&w=3840&q=75
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fdelivery_landing.png&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fdrag_and_drop.png&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Ffreelancer_card.png&w=3840&q=75
