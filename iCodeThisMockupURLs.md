@@ -38,3 +38,4 @@
 [2023-11-27: Freelancer Card](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Ffreelancer_card.png&w=3840&q=75)  
 [2023-11-28: Newsletter Cookies](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fnewsletter_cookies.png&w=3840&q=75)  
 [2023-11-30: Simple Contact](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fsimple_contact.png&w=3840&q=75)  
+[2023-12-02: Icodemas 02](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2FiCodeMas_02.png&w=3840&q=75)  
