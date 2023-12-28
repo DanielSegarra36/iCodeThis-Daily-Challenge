@@ -11,7 +11,8 @@ https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Ffile_upload.jpg
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Ffood_menu.jpg&w=3840&q=75
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Ffullpage_slider.jpg&w=3840&q=75
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fhalloween_countdown.jpg&w=3840&q=75
-https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fimage_zoom.jpg&w=3840&q=75https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fleaderboard_3.jpg&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fimage_zoom.jpg&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fleaderboard_3.jpg&w=3840&q=75
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fmobile_pad.jpg&w=3840&q=75
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fmusic_player_2.jpg&w=3840&q=75
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fpagination_3.jpg&w=3840&q=75
@@ -61,3 +62,7 @@ https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2FiCodeMas_21.png
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2FiCodeMas_22.png&w=3840&q=75
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2FiCodeMas_23.png&w=3840&q=75
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2FiCodeMas_24.png&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Favailable_positions.png&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fblog_page.png&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fblog_ui.png&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fgrid_footer.png&w=3840&q=75

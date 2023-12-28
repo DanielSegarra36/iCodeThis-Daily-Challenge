@@ -61,3 +61,7 @@
 [2023-12-21: Icodemas 21](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2FiCodeMas_21.png&w=3840&q=75)  
 [2023-12-23: Icodemas 23](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2FiCodeMas_23.png&w=3840&q=75)  
 [2023-12-24: Icodemas 24](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2FiCodeMas_24.png&w=3840&q=75)  
+[2023-12-25: Available Positions](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Favailable_positions.png&w=3840&q=75)  
+[2023-12-26: Blog Page](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fblog_page.png&w=3840&q=75)  
+[2023-12-27: Blog Ui](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fblog_ui.png&w=3840&q=75)  
+[2023-12-28: Grid Footer](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fgrid_footer.png&w=3840&q=75)  
