@@ -69,3 +69,4 @@ https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fgrid_footer.png
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fproduct_comps.png&w=3840&q=75
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fselect_account.png&w=3840&q=75
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fsocial_invite.png&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fstorage_plans.png&w=3840&q=75

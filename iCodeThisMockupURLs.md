@@ -68,3 +68,4 @@
 [2023-12-29: Product Comps](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fproduct_comps.png&w=3840&q=75)  
 [2023-12-30: Select Account](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fselect_account.png&w=3840&q=75)  
 [2024-01-01: Social Invite](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fsocial_invite.png&w=3840&q=75)  
+[2024-01-02: Storage Plans](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fstorage_plans.png&w=3840&q=75)  
