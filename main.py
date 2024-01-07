@@ -7,8 +7,8 @@ from bs4 import BeautifulSoup
 url = 'https://icodethis.com/app'
 
 # File to append URLs to
-urls_only_file = 'iCodeThisMockupURLs.txt'
-markdown_file = 'iCodeThisMockupURLs.md'
+urls_only_file = 'iCodeThisMockupURLs2024.txt'
+markdown_file = 'iCodeThisMockupURLs2024.md'
 
 try:
   # Send an HTTP GET request to the URL
@@ -41,7 +41,7 @@ try:
         image_content = res.content
 
         # Regular expression pattern to find 'Daily Challenge Name'
-        pattern = r'image\?url=%2Fimages%2Fprojects%2F(.*?)\.(jpg|png|webp)'
+        pattern = r'image\?url=%2Fimages%2Fprojects%2F(.*?)\.(jpg|jpeg|png|webp)'
 
         # Use re.search to find the match in the input string
         match = re.search(pattern, image_url)
