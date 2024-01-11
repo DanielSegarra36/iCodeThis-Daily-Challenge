@@ -4,3 +4,7 @@
 [2024-01-04: Analytics Graph](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fanalytics_graph.jpeg&w=3840&q=75)  
 [2024-01-05: Calculator 2](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fcalculator_2.jpeg&w=3840&q=75)  
 [2024-01-06: Cookie Notification](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fcookie_notification.png&w=3840&q=75)  
+[2024-01-07: Course Cta](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fcourse_cta.png&w=3840&q=75)  
+[2024-01-08: Curriculum Progress](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fcurriculum_progress.png&w=3840&q=75)  
+[2024-01-09: Documents App](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fdocuments_app.png&w=3840&q=75)  
+[2024-01-10: Double Registration](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fdouble_registration.png&w=3840&q=75)  

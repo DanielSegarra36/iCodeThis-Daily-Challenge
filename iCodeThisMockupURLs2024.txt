@@ -4,3 +4,7 @@ https://icodethis.com/_next/image?url=%2Fimages%2Fprojects%2F20s_profile.png&w=3
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fanalytics_graph.jpeg&w=3840&q=75
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fcalculator_2.jpeg&w=3840&q=75
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fcookie_notification.png&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fcourse_cta.png&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fcurriculum_progress.png&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fdocuments_app.png&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fdouble_registration.png&w=3840&q=75
