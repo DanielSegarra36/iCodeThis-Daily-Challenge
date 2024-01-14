@@ -8,3 +8,7 @@
 [2024-01-08: Curriculum Progress](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fcurriculum_progress.png&w=3840&q=75)  
 [2024-01-09: Documents App](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fdocuments_app.png&w=3840&q=75)  
 [2024-01-10: Double Registration](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fdouble_registration.png&w=3840&q=75)  
+[2024-01-11: Double Registration](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Ffull_page_select.png&w=3840&q=75)  
+[2024-01-12: Language Learn](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Flanguage_learn.png&w=3840&q=75)  
+[2024-01-13: Music Profile](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fmusic_profile.png&w=3840&q=75)  
+[2024-01-14: Nav Header Ui](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fnav_header_ui.png&w=3840&q=75)  
