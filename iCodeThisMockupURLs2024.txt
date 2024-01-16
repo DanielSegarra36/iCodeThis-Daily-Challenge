@@ -12,3 +12,5 @@ https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Ffull_page_selec
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Flanguage_learn.png&w=3840&q=75
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fmusic_profile.png&w=3840&q=75
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fnav_header_ui.png&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fone_time_pricing.png&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fprojects_board.png&w=3840&q=75
