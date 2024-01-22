@@ -14,3 +14,8 @@
 [2024-01-14: Nav Header Ui](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fnav_header_ui.png&w=3840&q=75)  
 [2024-01-15: One Time Pricing](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fone_time_pricing.png&w=3840&q=75)  
 [2024-01-16: Projects Board](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fprojects_board.png&w=3840&q=75)  
+[2024-01-17: Recording Ui](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Frecording_ui.jpeg&w=3840&q=75)  
+[2024-01-18: Basics](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fbasics.png&w=3840&q=75)  
+[2024-01-19: Resturants Location](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fresturants_location.jpeg&w=3840&q=75)  
+[2024-01-20: Simple Pricing 2](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fsimple_pricing_2.png&w=3840&q=75)  
+[2024-01-21: Social Profile Light](https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fsocial_profile_light.png&w=3840&q=75)  

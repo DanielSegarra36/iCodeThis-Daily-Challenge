@@ -14,3 +14,8 @@ https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fmusic_profile.p
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fnav_header_ui.png&w=3840&q=75
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fone_time_pricing.png&w=3840&q=75
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fprojects_board.png&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Frecording_ui.jpeg&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fbasics.png&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fresturants_location.jpeg&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fsimple_pricing_2.png&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fsocial_profile_light.png&w=3840&q=75
