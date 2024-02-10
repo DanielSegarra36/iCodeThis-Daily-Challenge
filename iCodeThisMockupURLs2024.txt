@@ -19,3 +19,14 @@ https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fbasics.png&w=38
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fresturants_location.jpeg&w=3840&q=75
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fsimple_pricing_2.png&w=3840&q=75
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fsocial_profile_light.png&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Frestaurant_ui_kit.png&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Faccount_ui.png&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Finbox_ui.png&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Flogin_screen.png&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fmessage_notification.png&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fresources_slider.png&w=3840&q=75
+https://icodethis.com/_next/image?url=/images/projects/ui_components.png&w=1200&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fdetails_card.png&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fpayment_app.png&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fsettings_widget.png&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fsubscription_plan.png&w=3840&q=75
