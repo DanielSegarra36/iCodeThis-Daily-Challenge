@@ -30,3 +30,6 @@ https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fdetails_card.pn
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fpayment_app.png&w=3840&q=75
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fsettings_widget.png&w=3840&q=75
 https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fsubscription_plan.png&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fto_do_2.png&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fuser_profile_ui_kit.png&w=3840&q=75
+https://www.icodethis.com/_next/image?url=%2Fimages%2Fprojects%2Fusers_list.png&w=3840&q=75
